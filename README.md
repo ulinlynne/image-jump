@@ -7,4 +7,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 <div id="my-photo"></div>
 
-![這是我的圖片](S__703160322)
+![這是我的圖片](S__703160322.jpg)
